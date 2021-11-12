@@ -1,0 +1,645 @@
+﻿Adamantina;3500105;SP
+Adolfo;3500204;SP
+Aguaí;3500303;SP
+Águas da Prata;3500402;SP
+Águas de Lindóia;3500501;SP
+Águas de Santa Bárbara;3500550;SP
+Águas de São Pedro;3500600;SP
+Agudos;3500709;SP
+Alambari;3500758;SP
+Alfredo Marcondes;3500808;SP
+Altair;3500907;SP
+Altinópolis;3501004;SP
+Alto Alegre;3501103;SP
+Alumínio;3501152;SP
+Álvares Florence;3501202;SP
+Álvares Machado;3501301;SP
+Álvaro de Carvalho;3501400;SP
+Alvinlândia;3501509;SP
+Americana;3501608;SP
+Américo Brasiliense;3501707;SP
+Américo de Campos;3501806;SP
+Amparo;3501905;SP
+Analândia;3502002;SP
+Andradina;3502101;SP
+Angatuba;3502200;SP
+Anhembi;3502309;SP
+Anhumas;3502408;SP
+Aparecida;3502507;SP
+Aparecida D Oeste;3502606;SP
+Apiaí;3502705;SP
+Araçariguama;3502754;SP
+Araçatuba;3502804;SP
+Araçoiaba da Serra;3502903;SP
+Aramina;3503000;SP
+Arandu;3503109;SP
+Arapeí;3503158;SP
+Araraquara;3503208;SP
+Araras;3503307;SP
+Arco-Íris;3503356;SP
+Arealva;3503406;SP
+Areias;3503505;SP
+Areiópolis;3503604;SP
+Ariranha;3503703;SP
+Artur Nogueira;3503802;SP
+Arujá;3503901;SP
+Aspásia;3503950;SP
+Assis;3504008;SP
+Atibaia;3504107;SP
+Auriflama;3504206;SP
+Avaí;3504305;SP
+Avanhandava;3504404;SP
+Avaré;3504503;SP
+Bady Bassitt;3504602;SP
+Balbinos;3504701;SP
+Bálsamo;3504800;SP
+Bananal;3504909;SP
+Barão de Antonina;3505005;SP
+Barbosa;3505104;SP
+Bariri;3505203;SP
+Barra Bonita;3505302;SP
+Barra do Chapéu;3505351;SP
+Barra do Turvo;3505401;SP
+Barretos;3505500;SP
+Barrinha;3505609;SP
+Barueri;3505708;SP
+Bastos;3505807;SP
+Batatais;3505906;SP
+Bauru;3506003;SP
+Bebedouro;3506102;SP
+Bento de Abreu;3506201;SP
+Bernardino de Campos;3506300;SP
+Bertioga;3506359;SP
+Bilac;3506409;SP
+Birigui;3506508;SP
+Biritiba-Mirim;3506607;SP
+Boa Esperança do Sul;3506706;SP
+Bocaina;3506805;SP
+Bofete;3506904;SP
+Boituva;3507001;SP
+Bom Jesus dos PerdõEs;3507100;SP
+Bom Sucesso de Itararé;3507159;SP
+Borá;3507209;SP
+Boracéia;3507308;SP
+Borborema;3507407;SP
+Borebi;3507456;SP
+Botucatu;3507506;SP
+Bragança Paulista;3507605;SP
+Braúna;3507704;SP
+Brejo Alegre;3507753;SP
+Brodowski;3507803;SP
+Brotas;3507902;SP
+Buri;3508009;SP
+Buritama;3508108;SP
+Buritizal;3508207;SP
+Cabrália Paulista;3508306;SP
+Cabreúva;3508405;SP
+Caçapava;3508504;SP
+Cachoeira Paulista;3508603;SP
+Caconde;3508702;SP
+Cafelândia;3508801;SP
+Caiabu;3508900;SP
+Caieiras;3509007;SP
+Caiuá;3509106;SP
+Cajamar;3509205;SP
+Cajati;3509254;SP
+Cajobi;3509304;SP
+Cajuru;3509403;SP
+Campina do Monte Alegre;3509452;SP
+Campinas;3509502;SP
+Campo Limpo Paulista;3509601;SP
+Campos do Jordão;3509700;SP
+Campos Novos Paulista;3509809;SP
+Cananéia;3509908;SP
+Canas;3509957;SP
+Cândido Mota;3510005;SP
+Cândido Rodrigues;3510104;SP
+Canitar;3510153;SP
+Capão Bonito;3510203;SP
+Capela do Alto;3510302;SP
+Capivari;3510401;SP
+Caraguatatuba;3510500;SP
+Carapicuíba;3510609;SP
+Cardoso;3510708;SP
+Casa Branca;3510807;SP
+Cássia dos Coqueiros;3510906;SP
+Castilho;3511003;SP
+Catanduva;3511102;SP
+Catiguá;3511201;SP
+Cedral;3511300;SP
+Cerqueira César;3511409;SP
+Cerquilho;3511508;SP
+Cesário Lange;3511607;SP
+Charqueada;3511706;SP
+Chavantes;3557204;SP
+Clementina;3511904;SP
+Colina;3512001;SP
+Colômbia;3512100;SP
+Conchal;3512209;SP
+Conchas;3512308;SP
+Cordeirópolis;3512407;SP
+Coroados;3512506;SP
+Coronel Macedo;3512605;SP
+Corumbataí;3512704;SP
+Cosmópolis;3512803;SP
+Cosmorama;3512902;SP
+Cotia;3513009;SP
+Cravinhos;3513108;SP
+Cristais Paulista;3513207;SP
+Cruzália;3513306;SP
+Cruzeiro;3513405;SP
+Cubatão;3513504;SP
+Cunha;3513603;SP
+Descalvado;3513702;SP
+Diadema;3513801;SP
+Dirce Reis;3513850;SP
+Divinolândia;3513900;SP
+Dobrada;3514007;SP
+Dois Córregos;3514106;SP
+Dolcinópolis;3514205;SP
+Dourado;3514304;SP
+Dracena;3514403;SP
+Duartina;3514502;SP
+Dumont;3514601;SP
+Echaporã;3514700;SP
+Eldorado;3514809;SP
+Elias Fausto;3514908;SP
+Elisiário;3514924;SP
+Embaúba;3514957;SP
+Embu;3515004;SP
+Embu-Guaçu;3515103;SP
+Emilianópolis;3515129;SP
+Engenheiro Coelho;3515152;SP
+Espírito Santo do Pinhal;3515186;SP
+Espírito Santo do Turvo;3515194;SP
+Estiva Gerbi;3557303;SP
+Estrela D Oeste;3515202;SP
+Estrela do Norte;3515301;SP
+Euclides da Cunha Paulista;3515350;SP
+Fartura;3515400;SP
+Fernando Prestes;3515608;SP
+Fernandópolis;3515509;SP
+Fernão;3515657;SP
+Ferraz de Vasconcelos;3515707;SP
+Flora Rica;3515806;SP
+Floreal;3515905;SP
+Flórida Paulista;3516002;SP
+Florínia;3516101;SP
+Franca;3516200;SP
+Francisco Morato;3516309;SP
+Franco da Rocha;3516408;SP
+Gabriel Monteiro;3516507;SP
+Gália;3516606;SP
+Garça;3516705;SP
+Gastão Vidigal;3516804;SP
+Gavião Peixoto;3516853;SP
+General Salgado;3516903;SP
+Getulina;3517000;SP
+Glicério;3517109;SP
+Guaiçara;3517208;SP
+Guaimbê;3517307;SP
+Guaíra;3517406;SP
+Guapiaçu;3517505;SP
+Guapiara;3517604;SP
+Guará;3517703;SP
+Guaraçaí;3517802;SP
+Guaraci;3517901;SP
+Guarani D Oeste;3518008;SP
+Guarantã;3518107;SP
+Guararapes;3518206;SP
+Guararema;3518305;SP
+Guaratinguetá;3518404;SP
+Guareí;3518503;SP
+Guariba;3518602;SP
+Guarujá;3518701;SP
+Guarulhos;3518800;SP
+Guatapará;3518859;SP
+Guzolândia;3518909;SP
+Herculândia;3519006;SP
+Holambra;3519055;SP
+Hortolândia;3519071;SP
+Iacanga;3519105;SP
+Iacri;3519204;SP
+Iaras;3519253;SP
+Ibaté;3519303;SP
+Ibirá;3519402;SP
+Ibirarema;3519501;SP
+Ibitinga;3519600;SP
+Ibiúna;3519709;SP
+Icém;3519808;SP
+Iepê;3519907;SP
+Igaraçu do Tietê;3520004;SP
+Igarapava;3520103;SP
+Igaratá;3520202;SP
+Iguape;3520301;SP
+Ilha Comprida;3520426;SP
+Ilha Solteira;3520442;SP
+Ilhabela;3520400;SP
+Indaiatuba;3520509;SP
+Indiana;3520608;SP
+Indiaporã;3520707;SP
+Inúbia Paulista;3520806;SP
+Ipaussu;3520905;SP
+Iperó;3521002;SP
+Ipeúna;3521101;SP
+Ipiguá;3521150;SP
+Iporanga;3521200;SP
+Ipuã;3521309;SP
+Iracemápolis;3521408;SP
+Irapuã;3521507;SP
+Irapuru;3521606;SP
+Itaberá;3521705;SP
+Itaí;3521804;SP
+Itajobi;3521903;SP
+Itaju;3522000;SP
+Itanhaém;3522109;SP
+Itaóca;3522158;SP
+Itapecerica da Serra;3522208;SP
+Itapetininga;3522307;SP
+Itapeva;3522406;SP
+Itapevi;3522505;SP
+Itapira;3522604;SP
+Itapirapuã Paulista;3522653;SP
+Itápolis;3522703;SP
+Itaporanga;3522802;SP
+Itapuí;3522901;SP
+Itapura;3523008;SP
+Itaquaquecetuba;3523107;SP
+Itararé;3523206;SP
+Itariri;3523305;SP
+Itatiba;3523404;SP
+Itatinga;3523503;SP
+Itirapina;3523602;SP
+Itirapuã;3523701;SP
+Itobi;3523800;SP
+Itu;3523909;SP
+Itupeva;3524006;SP
+Ituverava;3524105;SP
+Jaborandi;3524204;SP
+Jaboticabal;3524303;SP
+Jacareí;3524402;SP
+Jaci;3524501;SP
+Jacupiranga;3524600;SP
+Jaguariúna;3524709;SP
+Jales;3524808;SP
+Jambeiro;3524907;SP
+Jandira;3525003;SP
+Jardinópolis;3525102;SP
+Jarinu;3525201;SP
+Jaú;3525300;SP
+Jeriquara;3525409;SP
+Joanópolis;3525508;SP
+João Ramalho;3525607;SP
+José Bonifácio;3525706;SP
+Júlio Mesquita;3525805;SP
+Jumirim;3525854;SP
+Jundiaí;3525904;SP
+Junqueirópolis;3526001;SP
+Juquiá;3526100;SP
+Juquitiba;3526209;SP
+Lagoinha;3526308;SP
+Laranjal Paulista;3526407;SP
+Lavínia;3526506;SP
+Lavrinhas;3526605;SP
+Leme;3526704;SP
+Lençóis Paulista;3526803;SP
+Limeira;3526902;SP
+Lindóia;3527009;SP
+Lins;3527108;SP
+Lorena;3527207;SP
+Lourdes;3527256;SP
+Louveira;3527306;SP
+Lucélia;3527405;SP
+Lucianópolis;3527504;SP
+Luís Antônio;3527603;SP
+Luiziânia;3527702;SP
+Lupércio;3527801;SP
+Lutécia;3527900;SP
+Macatuba;3528007;SP
+Macaubal;3528106;SP
+Macedônia;3528205;SP
+Magda;3528304;SP
+Mairinque;3528403;SP
+Mairiporã;3528502;SP
+Manduri;3528601;SP
+Marabá Paulista;3528700;SP
+Maracaí;3528809;SP
+Marapoama;3528858;SP
+Mariápolis;3528908;SP
+Marília;3529005;SP
+Marinópolis;3529104;SP
+Martinópolis;3529203;SP
+Matão;3529302;SP
+Mauá;3529401;SP
+Mendonça;3529500;SP
+Meridiano;3529609;SP
+Mesópolis;3529658;SP
+Miguelópolis;3529708;SP
+Mineiros do Tietê;3529807;SP
+Mira Estrela;3530003;SP
+Miracatu;3529906;SP
+Mirandópolis;3530102;SP
+Mirante do Paranapanema;3530201;SP
+Mirassol;3530300;SP
+Mirassolândia;3530409;SP
+Mococa;3530508;SP
+Mogi Guaçu;3530706;SP
+Moji-Mirim;3530805;SP
+Moji das Cruzes;3530607;SP
+Mombuca;3530904;SP
+MonçõEs;3531001;SP
+Mongaguá;3531100;SP
+Monte Alegre do Sul;3531209;SP
+Monte Alto;3531308;SP
+Monte Aprazível;3531407;SP
+Monte Azul Paulista;3531506;SP
+Monte Castelo;3531605;SP
+Monte Mor;3531803;SP
+Monteiro Lobato;3531704;SP
+Morro Agudo;3531902;SP
+Morungaba;3532009;SP
+Motuca;3532058;SP
+Murutinga do Sul;3532108;SP
+Nantes;3532157;SP
+Narandiba;3532207;SP
+Natividade da Serra;3532306;SP
+Nazaré Paulista;3532405;SP
+Neves Paulista;3532504;SP
+Nhandeara;3532603;SP
+Nipoã;3532702;SP
+Nova Aliança;3532801;SP
+Nova Campina;3532827;SP
+Nova Canaã Paulista;3532843;SP
+Nova Castilho;3532868;SP
+Nova Europa;3532900;SP
+Nova Granada;3533007;SP
+Nova Guataporanga;3533106;SP
+Nova Independência;3533205;SP
+Nova Luzitânia;3533304;SP
+Nova Odessa;3533403;SP
+Novais;3533254;SP
+Novo Horizonte;3533502;SP
+Nuporanga;3533601;SP
+Ocauçu;3533700;SP
+Óleo;3533809;SP
+Olímpia;3533908;SP
+Onda Verde;3534005;SP
+Oriente;3534104;SP
+Orindiúva;3534203;SP
+Orlândia;3534302;SP
+Osasco;3534401;SP
+Oscar Bressane;3534500;SP
+Osvaldo Cruz;3534609;SP
+Ourinhos;3534708;SP
+Ouro Verde;3534807;SP
+Ouroeste;3534757;SP
+Pacaembu;3534906;SP
+Palestina;3535002;SP
+Palmares Paulista;3535101;SP
+Palmeira D Oeste;3535200;SP
+Palmital;3535309;SP
+Panorama;3535408;SP
+Paraguaçu Paulista;3535507;SP
+Paraibuna;3535606;SP
+Paraíso;3535705;SP
+Paranapanema;3535804;SP
+Paranapuã;3535903;SP
+Parapuã;3536000;SP
+Pardinho;3536109;SP
+Pariquera-Açu;3536208;SP
+Parisi;3536257;SP
+Patrocínio Paulista;3536307;SP
+Paulicéia;3536406;SP
+Paulínia;3536505;SP
+Paulistânia;3536570;SP
+Paulo de Faria;3536604;SP
+Pederneiras;3536703;SP
+Pedra Bela;3536802;SP
+Pedranópolis;3536901;SP
+Pedregulho;3537008;SP
+Pedreira;3537107;SP
+Pedrinhas Paulista;3537156;SP
+Pedro de Toledo;3537206;SP
+Penápolis;3537305;SP
+Pereira Barreto;3537404;SP
+Pereiras;3537503;SP
+Peruíbe;3537602;SP
+Piacatu;3537701;SP
+Piedade;3537800;SP
+Pilar do Sul;3537909;SP
+Pindamonhangaba;3538006;SP
+Pindorama;3538105;SP
+Pinhalzinho;3538204;SP
+Piquerobi;3538303;SP
+Piquete;3538501;SP
+Piracaia;3538600;SP
+Piracicaba;3538709;SP
+Piraju;3538808;SP
+Pirajuí;3538907;SP
+Pirangi;3539004;SP
+Pirapora do Bom Jesus;3539103;SP
+Pirapozinho;3539202;SP
+Pirassununga;3539301;SP
+Piratininga;3539400;SP
+Pitangueiras;3539509;SP
+Planalto;3539608;SP
+Platina;3539707;SP
+Poá;3539806;SP
+Poloni;3539905;SP
+Pompéia;3540002;SP
+Pongaí;3540101;SP
+Pontal;3540200;SP
+Pontalinda;3540259;SP
+Pontes Gestal;3540309;SP
+Populina;3540408;SP
+Porangaba;3540507;SP
+Porto Feliz;3540606;SP
+Porto Ferreira;3540705;SP
+Potim;3540754;SP
+Potirendaba;3540804;SP
+Pracinha;3540853;SP
+Pradópolis;3540903;SP
+Praia Grande;3541000;SP
+Pratânia;3541059;SP
+Presidente Alves;3541109;SP
+Presidente Bernardes;3541208;SP
+Presidente Epitácio;3541307;SP
+Presidente Prudente;3541406;SP
+Presidente Venceslau;3541505;SP
+Promissão;3541604;SP
+Quadra;3541653;SP
+Quatá;3541703;SP
+Queiroz;3541802;SP
+Queluz;3541901;SP
+Quintana;3542008;SP
+Rafard;3542107;SP
+Rancharia;3542206;SP
+Redenção da Serra;3542305;SP
+Regente Feijó;3542404;SP
+Reginópolis;3542503;SP
+Registro;3542602;SP
+Restinga;3542701;SP
+Ribeira;3542800;SP
+Ribeirão Bonito;3542909;SP
+Ribeirão Branco;3543006;SP
+Ribeirão Corrente;3543105;SP
+Ribeirão do Sul;3543204;SP
+Ribeirão dos Índios;3543238;SP
+Ribeirão Grande;3543253;SP
+Ribeirão Pires;3543303;SP
+Ribeirão Preto;3543402;SP
+Rifaina;3543600;SP
+Rincão;3543709;SP
+Rinópolis;3543808;SP
+Rio Claro;3543907;SP
+Rio das Pedras;3544004;SP
+Rio Grande da Serra;3544103;SP
+Riolândia;3544202;SP
+Riversul;3543501;SP
+Rosana;3544251;SP
+Roseira;3544301;SP
+Rubiácea;3544400;SP
+Rubinéia;3544509;SP
+Sabino;3544608;SP
+Sagres;3544707;SP
+Sales;3544806;SP
+Sales Oliveira;3544905;SP
+Salesópolis;3545001;SP
+Salmourão;3545100;SP
+Saltinho;3545159;SP
+Salto;3545209;SP
+Salto de Pirapora;3545308;SP
+Salto Grande;3545407;SP
+Sandovalina;3545506;SP
+Santa Adélia;3545605;SP
+Santa Albertina;3545704;SP
+Santa Bárbara D Oeste;3545803;SP
+Santa Branca;3546009;SP
+Santa Clara D Oeste;3546108;SP
+Santa Cruz da Conceição;3546207;SP
+Santa Cruz da Esperança;3546256;SP
+Santa Cruz das Palmeiras;3546306;SP
+Santa Cruz do Rio Pardo;3546405;SP
+Santa Ernestina;3546504;SP
+Santa Fé do Sul;3546603;SP
+Santa Gertrudes;3546702;SP
+Santa Isabel;3546801;SP
+Santa Lúcia;3546900;SP
+Santa Maria da Serra;3547007;SP
+Santa Mercedes;3547106;SP
+Santa Rita D Oeste;3547403;SP
+Santa Rita do Passa Quatro;3547502;SP
+Santa Rosa de Viterbo;3547601;SP
+Santa Salete;3547650;SP
+Santana da Ponte Pensa;3547205;SP
+Santana de Parnaíba;3547304;SP
+Santo Anastácio;3547700;SP
+Santo André;3547809;SP
+Santo Antônio da Alegria;3547908;SP
+Santo Antônio de Posse;3548005;SP
+Santo Antônio do Aracanguá;3548054;SP
+Santo Antônio do Jardim;3548104;SP
+Santo Antônio do Pinhal;3548203;SP
+Santo Expedito;3548302;SP
+Santópolis do Aguapeí;3548401;SP
+Santos;3548500;SP
+São Bento do Sapucaí;3548609;SP
+São Bernardo do Campo;3548708;SP
+São Caetano do Sul;3548807;SP
+São Carlos;3548906;SP
+São Francisco;3549003;SP
+São João da Boa Vista;3549102;SP
+São João das Duas Pontes;3549201;SP
+São João de Iracema;3549250;SP
+São João do Pau D Alho;3549300;SP
+São Joaquim da Barra;3549409;SP
+São José da Bela Vista;3549508;SP
+São José do Barreiro;3549607;SP
+São José do Rio Pardo;3549706;SP
+São José do Rio Preto;3549805;SP
+São José dos Campos;3549904;SP
+São Lourenço da Serra;3549953;SP
+São Luís do Paraitinga;3550001;SP
+São Manuel;3550100;SP
+São Miguel Arcanjo;3550209;SP
+São Paulo;3550308;SP
+São Pedro;3550407;SP
+São Pedro do Turvo;3550506;SP
+São Roque;3550605;SP
+São Sebastião;3550704;SP
+São Sebastião da Grama;3550803;SP
+São Simão;3550902;SP
+São Vicente;3551009;SP
+Sarapuí;3551108;SP
+Sarutaiá;3551207;SP
+Sebastianópolis do Sul;3551306;SP
+Serra Azul;3551405;SP
+Serra Negra;3551603;SP
+Serrana;3551504;SP
+Sertãozinho;3551702;SP
+Sete Barras;3551801;SP
+Severínia;3551900;SP
+Silveiras;3552007;SP
+Socorro;3552106;SP
+Sorocaba;3552205;SP
+Sud Mennucci;3552304;SP
+Sumaré;3552403;SP
+Suzanápolis;3552551;SP
+Suzano;3552502;SP
+Tabapuã;3552601;SP
+Tabatinga;3552700;SP
+Taboão da Serra;3552809;SP
+Taciba;3552908;SP
+Taguaí;3553005;SP
+Taiaçu;3553104;SP
+Taiúva;3553203;SP
+Tambaú;3553302;SP
+Tanabi;3553401;SP
+Tapiraí;3553500;SP
+Tapiratiba;3553609;SP
+Taquaral;3553658;SP
+Taquaritinga;3553708;SP
+Taquarituba;3553807;SP
+Taquarivaí;3553856;SP
+Tarabai;3553906;SP
+Tarumã;3553955;SP
+Tatuí;3554003;SP
+Taubaté;3554102;SP
+Tejupá;3554201;SP
+Teodoro Sampaio;3554300;SP
+Terra Roxa;3554409;SP
+Tietê;3554508;SP
+Timburi;3554607;SP
+Torre de Pedra;3554656;SP
+Torrinha;3554706;SP
+Trabiju;3554755;SP
+Tremembé;3554805;SP
+Três Fronteiras;3554904;SP
+Tuiuti;3554953;SP
+Tupã;3555000;SP
+Tupi Paulista;3555109;SP
+Turiúba;3555208;SP
+Turmalina;3555307;SP
+Ubarana;3555356;SP
+Ubatuba;3555406;SP
+Ubirajara;3555505;SP
+Uchoa;3555604;SP
+União Paulista;3555703;SP
+Urânia;3555802;SP
+Uru;3555901;SP
+Urupês;3556008;SP
+Valentim Gentil;3556107;SP
+Valinhos;3556206;SP
+Valparaíso;3556305;SP
+Vargem;3556354;SP
+Vargem Grande do Sul;3556404;SP
+Vargem Grande Paulista;3556453;SP
+Várzea Paulista;3556503;SP
+Vera Cruz;3556602;SP
+Vinhedo;3556701;SP
+Viradouro;3556800;SP
+Vista Alegre do Alto;3556909;SP
+Vitória Brasil;3556958;SP
+Votorantim;3557006;SP
+Votuporanga;3557105;SP
+Zacarias;3557154;SP

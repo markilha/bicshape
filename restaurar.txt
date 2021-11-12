@@ -1,0 +1,5 @@
+
+SET PGPASSWORD=postgres
+cd "C:\Program Files\PostgreSQL\10\bin"
+pg_restore.exe --host "<IP>" --port "<PORTA>" --username "postgres" --no-password --dbname "<BANCO>" --verbose "<CAMINHO>"
+

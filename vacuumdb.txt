@@ -1,0 +1,5 @@
+﻿/*define o usuário e a senha*/ 
+set PGUSER=postgres
+set PGPASSWORD=postgres    
+"@executavel" -h ip -p porta -U usuario --all --full --analyze --verbose banco
+pause

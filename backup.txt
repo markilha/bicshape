@@ -1,0 +1,6 @@
+﻿/*define o usu rio e a senha*/
+set PGUSER=postgres
+set PGPASSWORD=postgres
+"@executavel" --file "@caminho" --host "ip" --port "porta" --username "postgres" --no-password --verbose --format=c --blobs "banco"
+
+

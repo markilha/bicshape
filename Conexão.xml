@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Conexão>
+  <Config>
+    <BancoIp>localhost</BancoIp>
+    <BancoPorta>5432</BancoPorta>
+    <BancoUsuario>postgres</BancoUsuario>
+    <BancoNome>OlaMundo</BancoNome>
+  </Config>
+</Conexão>
